@@ -1,0 +1,16 @@
+#os
+.DS_STORE
+pyvenv.cfg
+
+#Secret
+secrets.json
+
+#env
+.env
+
+#build dir
+/dist
+
+#log
+logs
+*.log
